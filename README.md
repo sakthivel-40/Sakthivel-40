@@ -64,7 +64,7 @@ Bash-scripted tool to log system metrics (CPU, RAM, processes), runs for every 1
 
 ## 📫 Connect With Me
 
-- 🌐 GitHub: [github.com/sakthivel-dev](https://github.com/sakthivel-40)  
+- 🌐 GitHub: [github.com/sakthivel-40](https://github.com/sakthivel-40)  
 - 💼 Naukri Profile: *(-)*  
 - 📧 Email: *(sakthi17november2006@gmail.com)*
 
