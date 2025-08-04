@@ -20,25 +20,23 @@ I believe in learning by doing — from scripting Linux monitoring tools to inte
 **Diploma in Computer Engineering**  
 Key subjects covered:
 - Programming Fundamentals (C, Python)
-- Web Development (HTML, CSS, PHP)
 - Database Management (MySQL, SQL basics)
 - Networking Concepts & Protocols
-- Cloud Computing Basics
+- Cloud Computing intermediate
 - Operating Systems & Linux Administration
 
 **Current Courses at Besant Technologies**
 - Cloud Computing + Linux and Devops with Terraform and Azure
-- CCNA (Cisco Certified Network Associate)
 
 ---
 
 ## 🛠️ Skills
 
-- **Cloud Computing**: AWS EC2, RDS, S3, CloudWatch, SNS, SQS, Web Server Hosting   
-- **System Administration**: Linux scripting, process management, file permissions, User Management 
-- **DevOps Tools**: Docker, GitHub workflows, monitoring scripts, CI/CD Pipelines  
+- **Cloud Computing**: AWS EC2, RDS, S3, CloudWatch, SNS, SQS, Web Server Hosting, lamda, route53   
+- **System Administration**: Linux scripting, process management, file permissions, User Management, cron job, organizing 
+- **DevOps Tools**: Docker, GitHub workflows, monitoring scripts, CI/CD Pipelines, jenkins, terraform, kubernetes, other tools  
 - **Web Development**: PHP, MySQL, Apache  
-- **Networking**: IP addressing, routing, OSI model, configuration, Cisco Packet Tracing  
+- **Networking**: IP addressing, routing, OSI model, configuration, Cisco Packet Tracing, subnetting, protocols 
 - **Version Control**: Git, GitHub (repos, commits, README docs)
 
 ---
